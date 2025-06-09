@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LED_circles_library")(type "KiCad")(uri "${KIPRJMOD}/LED_circles_library.kicad_sym")(options "")(descr ""))
+)
