@@ -862,7 +862,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 105.41) (xy 312.42 105.41)
+			(xy 308.61 105.41) (xy 322.58 105.41)
 		)
 		(stroke
 			(width 0)
@@ -912,16 +912,6 @@
 	)
 	(wire
 		(pts
-			(xy 317.5 105.41) (xy 322.58 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad4adac7-2858-4641-b33f-6da0d33115e0")
-	)
-	(wire
-		(pts
 			(xy 218.44 105.41) (xy 228.6 105.41)
 		)
 		(stroke
@@ -929,16 +919,6 @@
 			(type default)
 		)
 		(uuid "aef07004-e719-4cc0-9411-337970bfd818")
-	)
-	(wire
-		(pts
-			(xy 317.5 135.89) (xy 323.85 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b45fcc77-37d4-40dc-9819-05489439b86d")
 	)
 	(wire
 		(pts
@@ -1052,7 +1032,7 @@
 	)
 	(wire
 		(pts
-			(xy 308.61 135.89) (xy 312.42 135.89)
+			(xy 308.61 135.89) (xy 323.85 135.89)
 		)
 		(stroke
 			(width 0)
@@ -1214,94 +1194,6 @@
 				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
 					(reference "#PWR069")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 314.96 135.89 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0be22ac6-8496-4c47-827a-1233334e4f9e")
-		(property "Reference" "R19"
-			(at 314.96 129.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 314.96 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 314.96 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 314.96 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 314.96 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c00b508a-f6a5-4c3f-bfb9-839d84c9d390")
-		)
-		(pin "2"
-			(uuid "5e458567-89ff-4566-8fa2-5c201457cc19")
-		)
-		(instances
-			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "R22")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "R21")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
-					(reference "R19")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "R23")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "R20")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -3970,94 +3862,6 @@
 				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
 					(reference "U72")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 314.96 105.41 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a19a8f67-da1d-4691-8fd2-d990cd042671")
-		(property "Reference" "R13"
-			(at 314.96 99.06 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0"
-			(at 314.96 101.6 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 314.96 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 314.96 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small US symbol"
-			(at 314.96 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1d750bce-1176-4060-aa39-77cfd32f2e84")
-		)
-		(pin "2"
-			(uuid "4f3ee127-2d22-49b6-8d57-63ab31ebe3c7")
-		)
-		(instances
-			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "R16")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "R15")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
-					(reference "R13")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "R17")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "R14")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "R18")
 					(unit 1)
 				)
 			)

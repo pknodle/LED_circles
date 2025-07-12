@@ -143,29 +143,23 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "power:GND"
-			(power)
-			(pin_numbers
-				(hide yes)
-			)
+		(symbol "Mechanical:MountingHole"
 			(pin_names
-				(offset 0)
-				(hide yes)
+				(offset 1.016)
 			)
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -6.35 0)
+			(property "Reference" "H"
+				(at 0 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(hide yes)
 				)
 			)
-			(property "Value" "GND"
-				(at 0 -3.81 0)
+			(property "Value" "MountingHole"
+				(at 0 3.175 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -181,7 +175,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "~"
 				(at 0 0 0)
 				(effects
 					(font
@@ -190,7 +184,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(property "Description" "Mounting Hole without connection"
 				(at 0 0 0)
 				(effects
 					(font
@@ -199,7 +193,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "global power"
+			(property "ki_keywords" "mounting hole"
 				(at 0 0 0)
 				(effects
 					(font
@@ -208,37 +202,25 @@
 					(hide yes)
 				)
 			)
-			(symbol "GND_0_1"
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+			(property "ki_fp_filters" "MountingHole*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
 					)
+					(hide yes)
+				)
+			)
+			(symbol "MountingHole_0_1"
+				(circle
+					(center 0 0)
+					(radius 1.27)
 					(stroke
-						(width 0)
+						(width 1.27)
 						(type default)
 					)
 					(fill
 						(type none)
-					)
-				)
-			)
-			(symbol "GND_1_1"
-				(pin power_in line
-					(at 0 0 270)
-					(length 0)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
 					)
 				)
 			)
@@ -270,16 +252,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9aad6b1f-dcc2-4540-a260-a94d1fa602bc")
-	)
-	(wire
-		(pts
-			(xy 355.6 105.41) (xy 363.22 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "086501eb-2e9a-4d32-8b6f-308f3df0f5ef")
 	)
 	(wire
 		(pts
@@ -343,36 +315,6 @@
 	)
 	(wire
 		(pts
-			(xy 363.22 105.41) (xy 363.22 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6dbee3a8-6867-47cb-966c-8a664a72137a")
-	)
-	(wire
-		(pts
-			(xy 92.71 105.41) (xy 106.68 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6deb5fa4-1105-418e-a28f-40b5c4f93351")
-	)
-	(wire
-		(pts
-			(xy 363.22 114.3) (xy 363.22 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "73c15926-d0aa-4f6c-863c-8713606c505e")
-	)
-	(wire
-		(pts
 			(xy 316.23 105.41) (xy 321.31 105.41)
 		)
 		(stroke
@@ -393,7 +335,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 105.41) (xy 87.63 105.41)
+			(xy 76.2 105.41) (xy 106.68 105.41)
 		)
 		(stroke
 			(width 0)
@@ -492,17 +434,17 @@
 		(uuid "e92715ad-577b-4232-8682-010a15d02341")
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 363.22 111.76 0)
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 215.9 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "29ed9ece-e9ad-4ceb-ac03-179a557d1203")
-		(property "Reference" "R42"
-			(at 365.76 110.4899 0)
+		(uuid "319a97ee-f64c-4960-9671-4f0e1cb28fb0")
+		(property "Reference" "H3"
+			(at 104.14 214.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -510,8 +452,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100"
-			(at 365.76 113.0299 0)
+		(property "Value" "MountingHole"
+			(at 104.14 217.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -519,8 +461,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 363.22 111.76 0)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 101.6 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -529,7 +471,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 363.22 111.76 0)
+			(at 101.6 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -537,58 +479,54 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
-			(at 363.22 111.76 0)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "ca109d8a-579c-44e7-b4cf-e8c213c6df7a")
-		)
-		(pin "2"
-			(uuid "b9954129-4b14-41fb-890c-17852adf8364")
 		)
 		(instances
-			(project "LED_circles"
+			(project ""
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2"
-					(reference "R42")
+					(reference "H3")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:R_Small_US")
-		(at 90.17 105.41 270)
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 190.5 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "562b93af-fed1-4ac3-9ef6-28886d15d6de")
-		(property "Reference" "R40"
-			(at 90.17 99.06 90)
+		(uuid "79e7508f-e24c-410a-b845-47b311c379cc")
+		(property "Reference" "H1"
+			(at 104.14 189.2299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "0"
-			(at 90.17 101.6 90)
+		(property "Value" "MountingHole"
+			(at 104.14 191.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 90.17 105.41 0)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 101.6 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -597,7 +535,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 90.17 105.41 0)
+			(at 101.6 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -605,42 +543,54 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small US symbol"
-			(at 90.17 105.41 0)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 190.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(pin "1"
-			(uuid "2defddc5-3818-4b34-93cf-070b0fd9fcd4")
-		)
-		(pin "2"
-			(uuid "b4c8496a-4bce-4781-9dc4-4a9fe6581fb1")
 		)
 		(instances
 			(project ""
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2"
-					(reference "R40")
+					(reference "H1")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 363.22 118.11 0)
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 203.2 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "80d497bc-4684-4cd5-aa93-55ffbdd11c73")
-		(property "Reference" "#PWR0162"
-			(at 363.22 124.46 0)
+		(uuid "a08f7bfe-a6df-4f97-9c40-589bd0aae8de")
+		(property "Reference" "H2"
+			(at 104.14 201.9299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 104.14 204.4699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 101.6 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -648,16 +598,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 363.22 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 363.22 118.11 0)
+		(property "Datasheet" "~"
+			(at 101.6 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -665,31 +607,19 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 363.22 118.11 0)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 363.22 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5e3f17c4-60c5-42c2-9bf5-61e639d0dbad")
 		)
 		(instances
 			(project ""
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2"
-					(reference "#PWR0162")
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -760,6 +690,70 @@
 			(project "LED_circles"
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2"
 					(reference "R41")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Mechanical:MountingHole")
+		(at 101.6 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ece73b2f-22c6-48b5-a251-a0a6b2229056")
+		(property "Reference" "H4"
+			(at 104.14 227.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole"
+			(at 104.14 229.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "MountingHole:MountingHole_2.5mm"
+			(at 101.6 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 101.6 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole without connection"
+			(at 101.6 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2"
+					(reference "H4")
 					(unit 1)
 				)
 			)
