@@ -265,6 +265,16 @@
 	)
 	(wire
 		(pts
+			(xy 91.44 105.41) (xy 106.68 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "164d13a6-574e-44ed-9072-a44a89a4ad77")
+	)
+	(wire
+		(pts
 			(xy 199.39 105.41) (xy 203.2 105.41)
 		)
 		(stroke
@@ -335,7 +345,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 105.41) (xy 106.68 105.41)
+			(xy 76.2 105.41) (xy 86.36 105.41)
 		)
 		(stroke
 			(width 0)
@@ -432,6 +442,74 @@
 			(type default)
 		)
 		(uuid "e92715ad-577b-4232-8682-010a15d02341")
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 88.9 105.41 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2f374cee-4431-4114-b2c2-9484b9cfb738")
+		(property "Reference" "R13"
+			(at 88.9 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0"
+			(at 88.9 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 88.9 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 88.9 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f33c104d-91c8-4fe6-8d83-6b2d901592f7")
+		)
+		(pin "2"
+			(uuid "74ae5d58-99cb-4c26-9fa3-2f8e72928e8a")
+		)
+		(instances
+			(project "LED_circles"
+				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")

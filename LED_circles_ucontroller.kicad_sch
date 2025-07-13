@@ -2314,6 +2314,12 @@
 		(uuid "1ab8edac-ff2b-419a-b9fa-2aa46a78a384")
 	)
 	(junction
+		(at 285.75 35.56)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f6577e3-dc79-4b7a-8774-94dc37547acb")
+	)
+	(junction
 		(at 236.22 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2368,6 +2374,12 @@
 		(uuid "dacf2741-2082-4b38-80c4-77c481032ce7")
 	)
 	(junction
+		(at 285.75 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb7958ae-0b44-4ad3-ac40-06ddc24019d9")
+	)
+	(junction
 		(at 275.59 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2376,6 +2388,16 @@
 	(no_connect
 		(at 186.69 80.01)
 		(uuid "42321318-35b7-47ed-a328-a0b8bf0e134c")
+	)
+	(wire
+		(pts
+			(xy 285.75 35.56) (xy 295.91 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00533174-769e-48d9-97bd-78c082313603")
 	)
 	(wire
 		(pts
@@ -2396,6 +2418,16 @@
 			(type default)
 		)
 		(uuid "0effc9f1-8041-4566-911c-098fbc9130ea")
+	)
+	(wire
+		(pts
+			(xy 295.91 35.56) (xy 295.91 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10b4f15e-d8a2-4fd1-bb03-654c40c6fb30")
 	)
 	(wire
 		(pts
@@ -2736,6 +2768,16 @@
 			(type default)
 		)
 		(uuid "7af1a06e-ad96-48db-8ea3-036ebc3fd907")
+	)
+	(wire
+		(pts
+			(xy 295.91 43.18) (xy 295.91 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c155a2a-ff01-435f-aad3-c0f045aefa93")
 	)
 	(wire
 		(pts
@@ -3249,6 +3291,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 49.53) (xy 295.91 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7d21c1a-d92e-4b0b-9f67-a06321ded92d")
+	)
+	(wire
+		(pts
 			(xy 186.69 110.49) (xy 218.44 110.49)
 		)
 		(stroke
@@ -3407,6 +3459,16 @@
 		)
 		(uuid "6d0cbeff-8a40-4261-905c-9541913c83ad")
 	)
+	(label "RX"
+		(at 262.89 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "81210ea6-24b6-4b72-9e86-b002a6480b85")
+	)
 	(label "SWDIO"
 		(at 264.16 102.87 180)
 		(effects
@@ -3446,6 +3508,16 @@
 			(justify right bottom)
 		)
 		(uuid "9341289c-0203-4de9-99df-31878693ed25")
+	)
+	(label "TX"
+		(at 262.89 92.71 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "96540501-377e-4c08-9895-5baefb1f36e0")
 	)
 	(label "SWCLK"
 		(at 196.85 74.93 180)
@@ -5321,6 +5393,76 @@
 			(project "LED_circles"
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/a02ddc3d-cba5-487a-854d-aeab8652491a"
 					(reference "#PWR0159")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 295.91 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "892b42d2-f789-4750-8130-3797eb76b760")
+		(property "Reference" "C14"
+			(at 298.45 39.3762 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" ".1uF"
+			(at 298.45 41.9162 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+			(at 295.91 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 295.91 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 295.91 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3ffa6d00-d996-4956-b7d4-6cbb6439d789")
+		)
+		(pin "1"
+			(uuid "5d50dc5d-6343-4fb3-b957-24f46c59f410")
+		)
+		(instances
+			(project "LED_circles"
+				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/a02ddc3d-cba5-487a-854d-aeab8652491a"
+					(reference "C14")
 					(unit 1)
 				)
 			)
