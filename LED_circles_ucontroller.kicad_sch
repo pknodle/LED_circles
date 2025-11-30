@@ -2313,6 +2313,16 @@
 	)
 	(wire
 		(pts
+			(xy 283.21 58.42) (xy 283.21 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e4dbb84-97a9-45ac-90f4-0da71a44e6ea")
+	)
+	(wire
+		(pts
 			(xy 320.04 100.33) (xy 308.61 100.33)
 		)
 		(stroke
@@ -2633,7 +2643,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 92.71) (xy 257.81 92.71)
+			(xy 327.66 102.87) (xy 308.61 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3082,12 +3092,12 @@
 		(uuid "96540501-377e-4c08-9895-5baefb1f36e0")
 	)
 	(label "HOLD"
-		(at 238.76 92.71 0)
+		(at 327.66 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "a0687dd3-8943-497e-a7b9-c5fda16dabad")
 	)
@@ -3251,7 +3261,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 415.29 76.2 0)
+		(at 379.73 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3260,7 +3270,7 @@
 		(fields_autoplaced yes)
 		(uuid "0bcf5cb7-81f2-40fa-bade-66886459f97c")
 		(property "Reference" "TP2"
-			(at 417.83 71.6279 0)
+			(at 382.27 98.2979 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3269,7 +3279,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 417.83 74.1679 0)
+			(at 382.27 100.8379 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3278,7 +3288,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_3.0x3.0mm"
-			(at 420.37 76.2 0)
+			(at 384.81 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3287,7 +3297,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 420.37 76.2 0)
+			(at 384.81 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3296,7 +3306,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 415.29 76.2 0)
+			(at 379.73 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4083,7 +4093,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 400.05 77.47 0)
+		(at 364.49 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4092,7 +4102,7 @@
 		(fields_autoplaced yes)
 		(uuid "43c2bd39-c079-4198-b035-ea2ff28a6422")
 		(property "Reference" "TP1"
-			(at 402.59 72.8979 0)
+			(at 367.03 99.5679 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4101,7 +4111,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 402.59 75.4379 0)
+			(at 367.03 102.1079 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4110,7 +4120,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Pad_3.0x3.0mm"
-			(at 405.13 77.47 0)
+			(at 369.57 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4119,7 +4129,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 405.13 77.47 0)
+			(at 369.57 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4128,7 +4138,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 400.05 77.47 0)
+			(at 364.49 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5229,6 +5239,72 @@
 			(project "LED_circles"
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/a02ddc3d-cba5-487a-854d-aeab8652491a"
 					(reference "#PWR0161")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 283.21 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c44a1f74-1637-43db-ac4f-2148be3db6ad")
+		(property "Reference" "#PWR0157"
+			(at 283.21 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 283.21 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 283.21 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 283.21 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 283.21 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7ef735cc-4687-44c0-9d4b-416de22bcdd1")
+		)
+		(instances
+			(project "LED_circles"
+				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/a02ddc3d-cba5-487a-854d-aeab8652491a"
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
