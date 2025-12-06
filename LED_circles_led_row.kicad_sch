@@ -1172,28 +1172,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR057")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR051")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR039")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR063")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR045")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -1265,28 +1245,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U49")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U37")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U13")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U61")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U25")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U73")
 					(unit 1)
 				)
 			)
@@ -1358,28 +1318,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U43")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U31")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U7")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U55")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U19")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U67")
 					(unit 1)
 				)
 			)
@@ -1443,28 +1383,8 @@
 		)
 		(instances
 			(project ""
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR04")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR03")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR01")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR05")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR02")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -1536,28 +1456,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U45")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U33")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U9")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U57")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U21")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U69")
 					(unit 1)
 				)
 			)
@@ -1621,28 +1521,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0154")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0153")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0151")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0155")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0152")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0156")
 					(unit 1)
 				)
 			)
@@ -1706,28 +1586,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0148")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0147")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0145")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0149")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0146")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -1799,28 +1659,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U47")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U35")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U11")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U59")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U23")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U71")
 					(unit 1)
 				)
 			)
@@ -1885,28 +1725,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0142")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0141")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0139")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0143")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0140")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -1971,28 +1791,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0124")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0123")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0121")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0125")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0122")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -2064,28 +1864,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U40")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U28")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U4")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U52")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U16")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U64")
 					(unit 1)
 				)
 			)
@@ -2157,28 +1937,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U42")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U30")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U6")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U54")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U18")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U66")
 					(unit 1)
 				)
 			)
@@ -2242,28 +2002,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR058")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR052")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR040")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR064")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR046")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -2332,28 +2072,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "R28")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "R27")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "R25")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "R29")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "R26")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -2425,28 +2145,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U41")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U29")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U5")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U53")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U17")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U65")
 					(unit 1)
 				)
 			)
@@ -2511,28 +2211,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR094")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR093")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR091")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR095")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR092")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -2597,28 +2277,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0130")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0129")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0127")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0131")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0128")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -2690,28 +2350,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U38")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U26")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U1")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U50")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U14")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U62")
 					(unit 1)
 				)
 			)
@@ -2783,28 +2423,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U46")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U34")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U10")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U58")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U22")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U70")
 					(unit 1)
 				)
 			)
@@ -2868,28 +2488,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR034")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR033")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR031")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR035")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR032")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -2961,28 +2561,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U39")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U27")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U2")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U51")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U15")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U63")
 					(unit 1)
 				)
 			)
@@ -3049,28 +2629,8 @@
 		)
 		(instances
 			(project ""
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "R4")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "R3")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "R1")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "R5")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "R2")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -3139,28 +2699,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "R34")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "R33")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "R31")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "R35")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "R32")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -3232,28 +2772,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U44")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U32")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U8")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U56")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U20")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U68")
 					(unit 1)
 				)
 			)
@@ -3317,28 +2837,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR059")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR053")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR041")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR065")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR047")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -3403,28 +2903,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0136")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0135")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0133")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0137")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0134")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -3488,28 +2968,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR056")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR050")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR038")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR062")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR044")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -3573,28 +3033,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR016")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR015")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR013")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR017")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR014")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -3661,28 +3101,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "R10")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "R9")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "R7")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "R11")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "R8")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -3747,28 +3167,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0118")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0117")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0115")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0119")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0116")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -3840,28 +3240,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "U48")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "U36")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "U12")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "U60")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "U24")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "U72")
 					(unit 1)
 				)
 			)
@@ -3925,28 +3305,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR010")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR09")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR07")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR011")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR08")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -4011,28 +3371,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0106")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0105")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0103")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0107")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0104")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -4096,28 +3436,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR028")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR027")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR025")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR029")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR026")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -4182,28 +3502,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR088")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR087")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR085")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR089")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR086")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -4267,28 +3567,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR055")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR049")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR037")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR061")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR043")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -4352,28 +3632,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR022")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR021")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR019")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR023")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR020")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -4438,28 +3698,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR082")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR081")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR079")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR083")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR080")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -4524,28 +3764,8 @@
 		)
 		(instances
 			(project ""
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR076")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR075")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR073")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR077")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR074")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -4610,28 +3830,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0112")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR0111")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR0109")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0113")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR0110")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -4696,28 +3896,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR0100")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR099")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR097")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR0101")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR098")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -4781,28 +3961,8 @@
 		)
 		(instances
 			(project "LED_circles"
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/44e8ba91-3a10-488a-90ac-cab22a61c6c4"
-					(reference "#PWR060")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72301e72-b154-4705-8921-79efe84e134a"
-					(reference "#PWR054")
-					(unit 1)
-				)
 				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/72c08671-0611-4d20-b947-89e2fde69567"
 					(reference "#PWR042")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9310fa55-8873-4e7f-96c0-a68569c657d5"
-					(reference "#PWR066")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/9b430a50-2d65-43e0-95df-92b936891a2b"
-					(reference "#PWR048")
-					(unit 1)
-				)
-				(path "/fee5cc62-df5b-4e25-a1c9-d9673ac3b8e2/ef117ddb-61a6-4981-a672-4813b9746f59"
-					(reference "#PWR072")
 					(unit 1)
 				)
 			)
