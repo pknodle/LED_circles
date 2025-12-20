@@ -2301,7 +2301,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "IN-PI55TAT"
 			(at 146.05 100.33 0)
 			(effects
 				(font
