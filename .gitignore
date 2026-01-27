@@ -33,3 +33,9 @@ fp-info-cache
 Datasheets/
 *.kicad_prl
 fabrication/
+
+fabricatopn-single-row/
+
+*.zip
+
+fabrication-single-row/

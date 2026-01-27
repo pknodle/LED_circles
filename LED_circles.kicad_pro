@@ -60,36 +60,8 @@
       ],
       "drc_exclusions": [
         [
-          "annular_width|91180000|136425000|a8e1b491-1b57-460d-b0c5-64fe0a86f4cb|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "annular_width|91180000|140225000|0824099d-eb59-4162-8812-6f16b90a7189|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "annular_width|99820000|136425000|6ee4b2bb-af83-4f04-acc1-befc801eb23a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "annular_width|99820000|140225000|bb6f97b5-1206-4fbf-962e-a501094b9de3|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|91180000|136425000|a8e1b491-1b57-460d-b0c5-64fe0a86f4cb|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|91180000|140225000|0824099d-eb59-4162-8812-6f16b90a7189|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|99820000|136425000|6ee4b2bb-af83-4f04-acc1-befc801eb23a|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "drill_out_of_range|99820000|140225000|bb6f97b5-1206-4fbf-962e-a501094b9de3|00000000-0000-0000-0000-000000000000",
-          ""
+          "lib_footprint_mismatch|95500000|139200000|ebc825ea-614e-4b4e-85cc-f1cc6eb37ba2|00000000-0000-0000-0000-000000000000",
+          "This is an edited pad that can be fabricated on a PCB mill with a reasonable tool."
         ]
       ],
       "meta": {
@@ -547,7 +519,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "fabricatopn-single-row/",
+      "plot": "fabrication-single-row/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
