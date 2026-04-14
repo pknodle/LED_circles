@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "intro_course") (type "KiCad") (uri "/home/pknodle/hardware/LED_circles/01-Intro/intro_course.pretty") (options "") (descr ""))
+)
