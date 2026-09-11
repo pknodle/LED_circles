@@ -1,0 +1,49 @@
+= Making Artistic PCBs with KiCad
+:author: Philip Knodle
+:doctype: book
+:toc:
+:ascii-ids:
+:experimental:
+
+
+
+[[copyright]]
+*Copyright*
+
+
+All trademarks within this guide belong to their legitimate owners.
+
+[[contributors]]
+*Contributors*
+
+
+
+:sectnums:
+
+
+
+= Class 2
+:sectnums:
+
+* Schematic edior
+** Place components
+** Footprints 
+** Dot vs no dot
+** X flip, Y flip
+** Annotation
+
+** What does THT stand for
+
+** Apply the pin number filter and the name filter
+
+
+*  PCB Editor/ DRC
+** What do the symbols mean?????
+** Have next step ready to go
+** Hotkey to grab closest unconnected net
+
+* Gerber creation checklist
+
+* Differences between PCB editor and Schmatic editor
+
+
